@@ -1,5 +1,7 @@
 # groot-recruiters-templates
 
+[![Join the chat at https://acm-uiuc.slack.com/messages/C6XGZD212/](https://img.shields.io/badge/slack-groot-724D71.svg)](https://acm-uiuc.slack.com/messages/C6XGZD212/)
+
 - Contains the email templates
 
 ## Sinatra variables that you can use
